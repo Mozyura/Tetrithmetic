@@ -1,0 +1,9 @@
+{
+    "op":["-"],
+    "num1":[2],
+    "num2":[1],
+    "correct_point":25,
+    "incorrect_point":20,
+    "time": 6.5,
+    "score": 60
+}
